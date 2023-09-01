@@ -1,0 +1,8 @@
+$primary-color: #ff0000;
+
+@mixin h1-styler {
+    color:$primary-color;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-stretch: expanded;
+}

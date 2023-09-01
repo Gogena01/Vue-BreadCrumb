@@ -1,0 +1,21 @@
+{
+  "name": "vue-breadcrumb-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "require-context.macro": "^1.2.2",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "sass": "^1.66.1",
+    "vite": "^4.4.5"
+  }
+}
